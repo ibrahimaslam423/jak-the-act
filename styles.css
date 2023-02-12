@@ -7,9 +7,10 @@ h1 {
 
 h2 {
     color: white;
-    margin-top: 3em;
+    margin: auto;
     font-family: "Roboto Mono", monospace;
-    font-size: 50px;
+    font-size: 100px;
+    text-align: center;
 }
 
 body {
