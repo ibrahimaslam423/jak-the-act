@@ -50,3 +50,8 @@ img {
     float: left;
     height: 50px;
 }
+
+iframe {
+    margin-top: -0.5em;
+    margin-bottom: 1.5em;
+}
