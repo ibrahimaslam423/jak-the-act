@@ -54,3 +54,7 @@ iframe {
 .active {
     color: lime;
 }
+
+.external {
+    display: block;
+}
