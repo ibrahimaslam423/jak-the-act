@@ -7,11 +7,9 @@ h1 {
 }
 
 h2 {
-    color: transparent;
     margin-top: 3em;
     font-family: "Roboto Mono", monospace;
     font-size: 50px;
-    text-shadow: 0px 0px 3px black;
 }
 
 body {
@@ -27,20 +25,16 @@ div {
 }
 
 .menu {
-    display: inline;
     text-align: center;
     margin: auto;
     font-family: "Roboto Mono", monospace;
-    color: transparent;
     font-size: 50px;
     padding-left: 100px;
     padding-right: 100px;
-    text-shadow: 0px 0px 3px black;
 }
 
 a {
-    color: transparent;
-    text-shadow: 0px 0px 3px black;
+    color: black;
 }
 
 img {
