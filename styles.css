@@ -2,7 +2,7 @@ h1 {
     color: white;
     text-align: center;
     font-size: 150px;
-    font-family: "Roboto Mono", monospace;
+    font-family: "DotGothic16", sans-serif;
     margin-bottom: 0;
     margin-top: 30px;
 }
@@ -11,12 +11,12 @@ h2 {
     color: white;
     text-align: center;
     font-size: 40px;
-    font-family: "Roboto Mono", monospace;
+    font-family: "DotGothic16", sans-serif;
 }
 
 p {
     color: white;
-    font-family: "Roboto Mono", monospace;
+    font-family: "DotGothic16", sans-serif;
     font-size: 50px;
 }
 
@@ -34,7 +34,7 @@ div {
 
 a {
     color: white;
-    font-family: "Roboto Mono", monospace;
+    font-family: "DotGothic16", sans-serif;
     font-size: 40px;
     margin: 50px;
 }
@@ -66,11 +66,12 @@ iframe {
     display: block;
 }
 
-.links {
-    display: flex;
-    align-items: baseline;
-}
-
 .spacer {
     margin-top: -50px;
+}
+
+.links {
+    float: left;
+    margin: auto;
+    width: 50%;
 }
