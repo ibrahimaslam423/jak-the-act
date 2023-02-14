@@ -42,6 +42,11 @@ iframe {
     margin-right: auto;
 }
 
+img {
+    height: 200px;
+    margin: 20px;
+}
+
 .topnav {
     margin-left: auto;
     margin-right: auto;
