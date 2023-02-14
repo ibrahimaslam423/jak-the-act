@@ -76,3 +76,7 @@ img {
     margin: auto;
     width: 50%;
 }
+
+.images {
+    margin-top: -100px;
+}
