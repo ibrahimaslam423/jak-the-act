@@ -45,6 +45,7 @@ iframe {
 img {
     height: 200px;
     margin: 20px;
+    box-sizing: border-box;
 }
 
 .topnav {
