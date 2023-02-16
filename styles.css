@@ -46,10 +46,9 @@ iframe {
 
 img {
     object-fit: cover;
-    height: 200px;
+    height: auto;
     width: auto;
-    margin: 20px;
-    box-sizing: border-box;
+    max-width: 600px;
 }
 
 .topnav {
@@ -83,5 +82,8 @@ img {
 }
 
 .images {
+    display: flex;
+    flex-direction: column;
     margin-top: -100px;
+    gap: 20px;
 }
