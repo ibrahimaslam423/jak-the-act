@@ -57,6 +57,7 @@ img {
     margin-top: 5px;
     margin-bottom: 0;
     width: auto;
+    border: 3px solid black;
 }
 
 .topnav-centered {
