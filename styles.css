@@ -17,20 +17,22 @@ h1 {
 }
 
 p {
-    color: white;
-    font-family: "DotGothic16", sans-serif;
     font-size: 15px;
     text-shadow: 3px 3px 0px black;
+    text-align: center;
 }
 
 a {
     font-size: 14px;
 }
 
+img {
+    width: 100%;
+}
+
 .topnav {
     text-align: center;
     padding: 20px;
-    
 }
 
 .active {
@@ -38,7 +40,7 @@ a {
 }
 
 .links {
-    display: flex;
+    display: grid;
     flex-direction: column;
     width: 45%;
     margin: auto;
@@ -50,4 +52,12 @@ a {
     flex-direction: column;
     width: auto;
     align-items: center;
+}
+
+.images {
+    margin: auto;
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
