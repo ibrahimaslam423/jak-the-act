@@ -24,6 +24,7 @@ p {
 
 a {
     font-size: 14px;
+    padding: 0 10px;
 }
 
 img {
@@ -32,7 +33,7 @@ img {
 
 .topnav {
     text-align: center;
-    padding: 20px;
+    margin: 15px;
 }
 
 .active {
