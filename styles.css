@@ -19,7 +19,6 @@ h1 {
 h2 {
     font-size: 30px;
     text-align: center;
-    text-shadow: 4px 4px 0px black;
     margin: 0;
     padding: 0;
     letter-spacing: 10px;
@@ -70,4 +69,16 @@ img {
     display: flex;
     flex-direction: column;
     gap: 20px;
+}
+
+.blinking {
+    animation: blinkingText 1.2s infinite;
+}
+
+@keyframes blinkingText{
+    0%{     color: #ffffff;    }
+    49%{    color: #ffffff; }
+    60%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: #ffffff;    }
 }
