@@ -61,7 +61,7 @@ img {
 .links {
     display: flex;
     flex-direction: column;
-    width: 45%;
+    width: 60%;
     margin: auto;
     text-align: center;
 }
@@ -79,4 +79,8 @@ img {
     display: flex;
     flex-direction: column;
     gap: 20px;
+}
+
+.spacer {
+    padding: 5px;
 }
