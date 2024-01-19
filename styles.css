@@ -51,12 +51,17 @@ img {
 }
 
 hr {
-    width: 80%
+    width: 80%;
+}
+
+iframe {
+    margin-top: -10px;
+    padding-bottom: 30px;
 }
 
 .topnav {
     text-align: center;
-    margin: 15px;
+    margin-top: 15px;
 }
 
 .active {
