@@ -43,6 +43,7 @@ p {
 a {
     font-size: 18px;
     padding: 0 10px;
+    text-underline-offset: 3px;
 }
 
 img {
