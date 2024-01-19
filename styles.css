@@ -50,6 +50,10 @@ img {
     width: 100%;
 }
 
+hr {
+    width: 80%
+}
+
 .topnav {
     text-align: center;
     margin: 15px;
@@ -83,5 +87,5 @@ img {
 }
 
 .spacer {
-    padding: 5px;
+    padding: 10px;
 }
