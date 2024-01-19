@@ -26,12 +26,12 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 25px;
     text-align: center;
     margin: 5;
     padding: 5;
     letter-spacing: 2px;
-    text-shadow: 3px 3px 0px black;
+    text-shadow: 4px 4px 0px black;
 }
 
 p {
