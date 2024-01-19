@@ -1,4 +1,4 @@
-h1, h2, p, a {
+h1, h2, h3, p, a {
     color: white;
     font-family: "DotGothic16", sans-serif;
 }
@@ -23,6 +23,15 @@ h2 {
     padding: 0;
     letter-spacing: 10px;
     text-shadow: 4px 4px 0px black;
+}
+
+h3 {
+    font-size: 15px;
+    text-align: center;
+    margin: 5;
+    padding: 5;
+    letter-spacing: 2px;
+    text-shadow: 3px 3px 0px black;
 }
 
 p {
