@@ -38,12 +38,14 @@ p {
     font-size: 18px;
     text-shadow: 3px 3px 1px black;
     text-align: center;
+    letter-spacing: 1px;
 }
 
 a {
     font-size: 18px;
     padding: 0 10px;
     text-underline-offset: 3px;
+    letter-spacing: 1px;
 }
 
 img {
